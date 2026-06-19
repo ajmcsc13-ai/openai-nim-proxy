@@ -66,6 +66,7 @@ const MODEL_MAPPING = {
 };
 
 const FALLBACK_MODELS = [
+  'nvidia/nemotron-3-ultra-550b-a55b',
   'deepseek-ai/deepseek-v4-flash',
   'mistralai/mistral-medium-3.5-128b',
   'mistralai/mistral-small-4-119b-2603',
